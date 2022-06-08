@@ -10,7 +10,7 @@ const styles = {
     alignItems: "center",
     justifyContent: "center",
     flexDirection: "column",
-    backgroundColor: '#000',
+    backgroundColor: "#000",
     color: '#fff',
     fontSize: "20px"
   },
